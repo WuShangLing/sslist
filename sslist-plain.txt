@@ -108,6 +108,11 @@
 ||threejs.org
 
 !!========== DEVELOPER ==========
+||akamaihd.net
+||koyeb.com
+||scaleway.com
+||bt.sy
+||zhile.io
 ||videojs.com
 ||ignimgs.com
 ||mux.com
